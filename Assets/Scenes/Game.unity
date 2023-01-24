@@ -457,7 +457,7 @@ GameObject:
   - component: {fileID: 1048705527}
   m_Layer: 0
   m_Name: Floor
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -554,7 +554,7 @@ GameObject:
   - component: {fileID: 1135827739}
   m_Layer: 0
   m_Name: LoseRight
-  m_TagString: Untagged
+  m_TagString: LoseArea
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -748,7 +748,7 @@ GameObject:
   - component: {fileID: 1283888946}
   m_Layer: 0
   m_Name: LoseLeft
-  m_TagString: Untagged
+  m_TagString: LoseArea
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

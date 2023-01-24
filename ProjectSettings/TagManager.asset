@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - FallingCube
+  - Floor
+  - LoseArea
   layers:
   - Default
   - TransparentFX
