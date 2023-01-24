@@ -8,10 +8,10 @@ using Vector3 = UnityEngine.Vector3;
 public class PlatformBehavior : MonoBehaviour
 {
     private float _inputHorizontal;
-    private float _moveSpeed = 10f;
+    private float _moveSpeed = 20f;
     private float _totalVelocity;
     private Vector3 _currentPostion;
-    private float _positionLimit = 10f;
+    private float _positionLimit = 11.5f;
 
     private void Update()
     {
