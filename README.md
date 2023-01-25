@@ -1,5 +1,5 @@
 # Its Raining Cubes
-  * It's a 3D game where players catch falling cubes with a moving platform.
+  * It's a 3D game where players catch falling cubes with a moving platform (it moves only in X-axis).
   * It's an infinite loop game.
   * If you catch a cube within the gap, you score.
   * If a cube hits the pink area of the platform, your score will reset to 0.
